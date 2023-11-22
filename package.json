@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-connector",
+  "name": "grafbase-mongodb-connector",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@grafbase/sdk": "~0.6"
+    "@grafbase/sdk": "~0.10"
   }
 }
